@@ -17,3 +17,8 @@ Original source "[switch-lan-play](https://github.com/spacemeowx2/switch-lan-pla
 
 
 3)Launch the app from terminal by typing './lan-play-arm'
+
+
+
+
+*Don't forget to run this code "sudo apt-get install libpcap0.8"*
