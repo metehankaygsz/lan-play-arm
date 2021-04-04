@@ -21,4 +21,4 @@ Original source "[switch-lan-play](https://github.com/spacemeowx2/switch-lan-pla
 
 
 
-*Don't forget to run this code "sudo apt-get install libpcap0.8"*
+*Don't forget to run this command "sudo apt-get install libpcap0.8"*
